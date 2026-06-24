@@ -5,6 +5,7 @@ This project presents a deep learning pipeline for coral reef benthic classifica
 Instead of classifying entire underwater reef images containing multiple coral categories, the dataset was transformed into single-label image patches using expert-provided annotation coordinates. This significantly improved label quality and enabled effective supervised learning.
 
 A ResNet18 model was trained on a balanced dataset of 60,000 coral image patches and achieved **82.38% validation accuracy** across six benthic classes.
+
 ---
 ## Dataset
 ### Original Dataset

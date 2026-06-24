@@ -89,6 +89,16 @@ Training Strategy:
 | Classes             | 6              |
 | Dataset Size        | 60,000 Patches |
 
+### Training Curves
+
+#### Training vs Validation Loss
+
+![Loss Curve](results/training_validation_loss.png)
+
+#### Training vs Validation Accuracy
+
+![Accuracy Curve](results/training_validation_accuracy.png)
+
 ### Per-Class Accuracy
 
 | Class                    | Accuracy |

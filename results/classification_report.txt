@@ -1,0 +1,12 @@
+                          precision    recall  f1-score   support
+
+crustose_coralline_algae     0.7882    0.5490    0.6472      2000
+              macroalgae     0.8385    0.8775    0.8576      2000
+                     off     0.8894    0.9365    0.9123      2000
+                 porites     0.8921    0.9220    0.9068      2000
+                    sand     0.7609    0.9370    0.8398      2000
+                    turf     0.7678    0.7210    0.7437      2000
+
+                accuracy                         0.8238     12000
+               macro avg     0.8228    0.8238    0.8179     12000
+            weighted avg     0.8228    0.8238    0.8179     12000
